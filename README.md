@@ -1,4 +1,5 @@
-# AMATH 482: Computational Methods for Data Analysis 
+# UW AMATH 482
+*Computational Methods for Data Analysis* 
 - University of Washington - Seattle
 - Professor: Craig Gin  
 - Winter 2020
